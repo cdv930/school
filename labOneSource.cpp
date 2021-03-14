@@ -1,5 +1,5 @@
 /*
- Christian Vernoy
+
  CS540
  Section #13434
                                         Lab Assignment #1
